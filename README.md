@@ -2,7 +2,6 @@
 This tool is an Excel based timeSheet, that allows you to keep track of your working hours and working days (including holidays and others).
 
 ## Functionalities ##
-List of functionalities:
 1. Track working hours per project/activity.
 1. Track hours for personal projects/activities.
 1. Track holidays, off-sick days, bank holidays (public holidays).
