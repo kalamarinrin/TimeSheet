@@ -12,7 +12,7 @@ This timesheet can be used for 2 purposes, tracking the hours, tracking the days
 1. Calculate over-time hours per week and keep track of the total over-time.
 1. Visual representation of the working hours between the different projects.
 
-Tracking day functions:
+### Tracking day functions: ###
 1. Track holidays, off-sick days, bank holidays (public holidays).
 1. Add comments to the different days.
 1. Visual representation of the year (working days, holidays, public holidays, off-sick, others).
