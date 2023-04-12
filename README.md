@@ -12,10 +12,6 @@ List of functionalities:
 1. Visual representation of the working hours between the different projects.
 1. Visual representation of the year (working days, holidays, public holidays, off-sick, others).
 
-
-
-
-
 ## How to use it ##
 First steps:
 1. Set year
