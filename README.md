@@ -18,7 +18,7 @@ This timesheet can be used for 2 purposes, tracking the hours, tracking the days
 1. Visual representation of the year (working days, holidays, public holidays, off-sick, others).
 
 ## How to use it ##
-In the sheet "_Month Summary_",
+In the sheet "_Month summary_",
 1. Set the current year.
 1. If you want to track hours, set your working hours per day by contract.
 
