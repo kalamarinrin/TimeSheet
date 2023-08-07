@@ -30,4 +30,4 @@ In the sheet "_Month summary_",
 1. Projects
 
 ## How to download it ##
-This link is always the latest version
+[Click here](https://github.com/kalamarinrin/TimeSheet/blob/main/TimeSheet.xlsm) to download the latest version.
